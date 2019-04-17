@@ -113,6 +113,7 @@ def disp_net(tgt_image, is_training=True):
             icnv5  = slim.conv2d(i5_in, 256, [3, 3], stride=1, scope='icnv5')
 
             upcnv4 = slim.conv2d_transpose(icnv5, 128, [3, 3], stride=2, scope='upcnv4')
+            upcnv4 = resize_like(upcnv4, cnv3b)
             i4_in  = tf.concat([upcnv4, cnv3b], axis=3)
             icnv4  = slim.conv2d(i4_in, 128, [3, 3], stride=1, scope='icnv4')
             disp4  = DISP_SCALING * slim.conv2d(icnv4, 1,   [3, 3], stride=1, 

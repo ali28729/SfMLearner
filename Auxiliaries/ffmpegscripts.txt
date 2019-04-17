@@ -1,0 +1,70 @@
+ffmpeg -i 0001.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0001_sync/image_02/data/%010d.png
+ffmpeg -i 0002.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0002_sync/image_02/data/%010d.png
+ffmpeg -i 0003.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0003_sync/image_02/data/%010d.png
+ffmpeg -i 0004.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0004_sync/image_02/data/%010d.png
+ffmpeg -i 0005.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0005_sync/image_02/data/%010d.png
+ffmpeg -i 0006.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0006_sync/image_02/data/%010d.png
+ffmpeg -i 0007.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0007_sync/image_02/data/%010d.png
+ffmpeg -i 0008.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0008_sync/image_02/data/%010d.png
+
+
+ffmpeg -i 0001.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0001_sync/image_02/data/%010d.png &&
+ffmpeg -i 0002.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0002_sync/image_02/data/%010d.png &&
+ffmpeg -i 0003.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0003_sync/image_02/data/%010d.png &&
+ffmpeg -i 0004.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0004_sync/image_02/data/%010d.png &&
+ffmpeg -i 0005.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0005_sync/image_02/data/%010d.png &&
+ffmpeg -i 0006.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0006_sync/image_02/data/%010d.png &&
+ffmpeg -i 0007.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0007_sync/image_02/data/%010d.png &&
+ffmpeg -i 0008.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0008_sync/image_02/data/%010d.png &&
+ffmpeg -i 0009.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0009_sync/image_02/data/%010d.png &&
+ffmpeg -i 0010.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0010_sync/image_02/data/%010d.png &&
+ffmpeg -i 0011.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0011_sync/image_02/data/%010d.png &&
+ffmpeg -i 0012.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0012_sync/image_02/data/%010d.png &&
+ffmpeg -i 0013.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0013_sync/image_02/data/%010d.png &&
+ffmpeg -i 0014.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0014_sync/image_02/data/%010d.png &&
+ffmpeg -i 0015.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0015_sync/image_02/data/%010d.png &&
+ffmpeg -i 0016.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0016_sync/image_02/data/%010d.png &&
+ffmpeg -i 0017.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0017_sync/image_02/data/%010d.png &&
+ffmpeg -i 0018.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0018_sync/image_02/data/%010d.png &&
+ffmpeg -i 0019.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0019_sync/image_02/data/%010d.png
+
+
+ffmpeg -i 0019.avi -start_number 0 -vf fps=200 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/cumvideos01/Trimmed/blob/image_02/data/%010d.png
+
+properties=x264-medium f=avi vcodec=libx264 g=120 crf=%quality
+
+
+ffmpeg -i 0001.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0001_sync/image_02/data/%010d.png &&
+ffmpeg -i 0002.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0002_sync/image_02/data/%010d.png &&
+ffmpeg -i 0003.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0003_sync/image_02/data/%010d.png &&
+ffmpeg -i 0004.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0004_sync/image_02/data/%010d.png &&
+ffmpeg -i 0005.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0005_sync/image_02/data/%010d.png &&
+ffmpeg -i 0006.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0006_sync/image_02/data/%010d.png &&
+ffmpeg -i 0007.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0007_sync/image_02/data/%010d.png &&
+ffmpeg -i 0008.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0008_sync/image_02/data/%010d.png &&
+ffmpeg -i 0009.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0009_sync/image_02/data/%010d.png &&
+ffmpeg -i 0010.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0010_sync/image_02/data/%010d.png &&
+ffmpeg -i 0011.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0011_sync/image_02/data/%010d.png &&
+ffmpeg -i 0012.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0012_sync/image_02/data/%010d.png &&
+ffmpeg -i 0013.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0013_sync/image_02/data/%010d.png &&
+ffmpeg -i 0014.avi -start_number 0 -vf fps=10 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0014_sync/image_02/data/%010d.png
+
+ffmpeg -i 0015.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0015_sync/image_02/data/%010d.png &&
+ffmpeg -i 0016.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0016_sync/image_02/data/%010d.png &&
+ffmpeg -i 0017.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0017_sync/image_02/data/%010d.png &&
+ffmpeg -i 0018.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0018_sync/image_02/data/%010d.png &&
+ffmpeg -i 0019.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0019_sync/image_02/data/%010d.png &&
+ffmpeg -i 0020.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0020_sync/image_02/data/%010d.png &&
+ffmpeg -i 0021.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0021_sync/image_02/data/%010d.png &&
+ffmpeg -i 0022.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0022_sync/image_02/data/%010d.png &&
+ffmpeg -i 0023.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0023_sync/image_02/data/%010d.png &&
+ffmpeg -i 0024.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0024_sync/image_02/data/%010d.png &&
+ffmpeg -i 0025.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0025_sync/image_02/data/%010d.png &&
+ffmpeg -i 0026.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0026_sync/image_02/data/%010d.png &&
+ffmpeg -i 0027.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0027_sync/image_02/data/%010d.png &&
+ffmpeg -i 0028.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0028_sync/image_02/data/%010d.png &&
+ffmpeg -i 0029.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0029_sync/image_02/data/%010d.png &&
+ffmpeg -i 0030.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0030_sync/image_02/data/%010d.png &&
+ffmpeg -i 0031.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0031_sync/image_02/data/%010d.png &&
+ffmpeg -i 0032.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0032_sync/image_02/data/%010d.png &&
+ffmpeg -i 0033.avi -start_number 0 -vf fps=20 /home/ali28729/Documents/GitHub/SfMLearner/drone_videos/Dataset/2011_09_28_drive_0033_sync/image_02/data/%010d.png

@@ -64,6 +64,7 @@ def main():
 
     if args.dataset_name == 'kitti_raw_eigen':
         from kitti.kitti_raw_loader import kitti_raw_loader
+        print(args.dataset_dir)
         data_loader = kitti_raw_loader(args.dataset_dir,
                                        split='eigen',
                                        img_height=args.img_height,
